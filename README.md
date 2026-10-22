@@ -1,16 +1,31 @@
-## Hi there 👋
+# Komal Prajapati
 
-<!--
-**komalprajapati39131-stack/komalprajapati39131-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Undergraduate | Aspiring AI Engineer | Python Developer**
 
-Here are some ideas to get you started:
+I build practical software projects at the intersection of Artificial Intelligence and application development. I am focused on strengthening my engineering skills through hands-on implementation, continuous learning, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+
+- **Programming Languages:** Python, JavaScript
+- **Artificial Intelligence:** Generative AI, LLM APIs, AI-powered applications
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), HTML, CSS
+- **Developer Tools:** Git, GitHub, VS Code
+
+### Featured Project
+
+**[VoiceSaathi AI](https://github.com/komalprajapati39131-stack/voice-saathi)**
+
+A Python-based voice assistant integrating Gnani AI speech services with Google Gemini to enable voice interaction and AI-generated responses.
+
+### Current Objectives
+- Develop reliable, practical AI applications.
+- Strengthen software development and integration skills.
+- Contribute to collaborative projects and open-source initiatives.
+- Pursue internship opportunities in AI engineering and software development.
+
+### Collaboration & Opportunities
+Open to technical collaboration, project-based learning, and relevant internship opportunities.
+
+---
+
+*Building skills through implementation. Turning concepts into working software.*
